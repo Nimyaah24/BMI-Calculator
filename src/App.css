@@ -1,0 +1,26 @@
+
+
+
+body{
+background-image: url('https://cdn.dribbble.com/users/1039637/screenshots/4643125/nature.gif'  );
+background-size: cover;
+background-repeat: no-repeat;
+  place-items: center;
+  display: grid;
+  height: 90vh;
+  
+}
+
+.output{
+  text-align: center;
+}
+
+.output #bi{
+font-size: 2rem;
+}
+
+.output #bi strong{
+  text-transform: uppercase;
+}
+
+
